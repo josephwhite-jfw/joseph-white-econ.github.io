@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Joe White
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Joseph
+last_name: White
 
 # Pronouns (optional)
 pronouns: he/him
@@ -39,7 +39,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/joseph-white-jfw/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
@@ -48,10 +48,9 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Industrial Organization
+  - Market Design
+  - Applied Microeconomics
 
 education:
   - area: PhD Computer Science (AI Focus)
